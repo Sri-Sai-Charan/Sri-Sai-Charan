@@ -2,17 +2,11 @@
 
 <a  href="https://git.io/typing-svg">
 
-<img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=Hello+%2C+There++%F0%9F%98%8E%F0%9F%98%8E;Im+Sai+Charan;Welcome+to+my+profile">
+<img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=Hello+%2C+There++%F0%9F%98%8E%F0%9F%98%8E;This+is+Sai+Charan;Welcome+to+my+profile">
 
 </a>
 
 </h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Hello+There+!)](https://git.io/typing-svg)
-
-
-
-
 
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/sri-sai-charan-v-4627ba173/)
