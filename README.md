@@ -9,13 +9,13 @@
 </h2>
 
 ```python
-class RafnixG:
+class SriSaiCharan:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.web = 'https://rafnixg.dev'
-        self.twitter = '@rafnixg'
+        self.username = 'Sri-Sai-Charan'
+        self.name = 'SriSaiCharan Velisetti'
+<!--         self.web = 'https://rafnixg.dev' -->
+<!--         self.twitter = '@rafnixg' -->
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
             'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
@@ -31,7 +31,7 @@ class RafnixG:
 
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me = SriSaiCharan()
 
 
 ```
