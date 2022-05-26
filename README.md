@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=This+is+Sai+Charan;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hello+There!)](https://git.io/typing-svg)
 <br />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2EF7AB&multiline=true&lines=I+am+a+Graduate+Student+at+UMD+;I+am+currently+studying+Robotics)](https://git.io/typing-svg)
 
