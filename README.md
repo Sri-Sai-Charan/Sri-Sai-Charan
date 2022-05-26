@@ -1,9 +1,6 @@
 
 <h2  align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hello+There!)].
-(https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hello+There!)]
 </h2>
 
 
