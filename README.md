@@ -1,6 +1,11 @@
-
 <h2  align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Hello+There!)](https://git.io/typing-svg)
+
+<a  href="https://git.io/typing-svg">
+
+<img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=Hey+%2C+There++%F0%9F%98%8E%F0%9F%98%8E;Im+Sai+Charan;Welcome+to+my+profile">
+
+</a>
+
 </h2>
 
 
