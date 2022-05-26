@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=This+is+Sai+Charan;Welcome+to+my+profile)](https://git.io/typing-svg)
 <br />
-### Hi there 👋, This is Sai Charan. I am a Graduate Student at the UMD. I am currently studying Robotics and hope to push the limits of robots just a little further :)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2EF7AB&multiline=true&lines=I+am+a+Graduate+Student+at+UMD+;I+am+currently+studying+Robotics)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning parallel programming
 - 👯 I’m looking to collaborate on Computer Vision Projects
