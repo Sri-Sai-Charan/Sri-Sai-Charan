@@ -1,5 +1,10 @@
-### Hi there 👋, This is Sai Charan,
+### Hi there 👋, This is Sai Charan. I am a Graduate Student at the UMD. I am currently studying Robotics and hope to push the limits of robots just a little further :)
 
+- 🌱 I’m currently learning parallel programming
+- 👯 I’m looking to collaborate on Computer Vision Projects
+- 💬 Ask me about ROS
+- 📫 How to reach me svellise@umd.edu
+- 😄 Pronouns: He/Him
 <!--
 **Sri-Sai-Charan/Sri-Sai-Charan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
