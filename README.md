@@ -31,7 +31,5 @@ if __name__ == '__main__':
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/sri-sai-charan-v-4627ba173/)
 [![svellise@umd.edu](https://img.shields.io/static/v1?label=svellise@umd.edu&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:svellise@umd.edu)
-
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40SaiCharan8912)](https://twitter.com/SaiCharan8912)
 
-@SaiCharan8912
