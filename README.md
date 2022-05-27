@@ -14,26 +14,19 @@ class SriSaiCharan:
     def __init__(self):
         self.username = 'Sri-Sai-Charan'
         self.name = 'SriSaiCharan Velisetti'
-<!--         self.web = 'https://rafnixg.dev' -->
-<!--         self.twitter = '@rafnixg' -->
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'machine_learning': ['Keras', 'TensorFlow', 'Pytorch', 'Anaconda', 'Python'],
+            'computer_vision': ['OpenCV', 'Python', 'Matlab','Pygame'],
+            'ros': ['C++', 'Python', 'ROS 1', 'Gazebo', 'RViz','SolidWorks','Catkin'],
+            'programing_misc': ['LabView','Simulink','Google Colab', 'Firebase', 'Ansys', 'Doxygen']
         }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+        
 
     def __str__(self):
         return self.name
 
-
 if __name__ == '__main__':
     me = SriSaiCharan()
-
-
 ```
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/sri-sai-charan-v-4627ba173/)
