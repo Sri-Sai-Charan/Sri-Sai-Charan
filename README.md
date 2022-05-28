@@ -18,7 +18,8 @@ class SriSaiCharan:
             'machine_learning': ['Keras', 'TensorFlow', 'Pytorch', 'Anaconda', 'Python'],
             'computer_vision':  ['OpenCV', 'Python', 'Matlab','Pygame'],
             'ros':              ['C++', 'Python', 'ROS 1', 'Gazebo', 'RViz','SolidWorks','Catkin'],
-            'programing_misc':  ['LabView','Simulink','Google Colab', 'Firebase', 'Ansys', 'Doxygen']
+            'programing_misc':  ['LabView','Simulink','Google Colab', 
+                                    'Firebase', 'Ansys', 'Doxygen']
         }
         self.education = {
             'undergraduate':    ['SRM IST', 'Mechatronics'],
