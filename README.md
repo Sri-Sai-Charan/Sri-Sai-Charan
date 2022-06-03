@@ -17,7 +17,8 @@ class SriSaiCharan:
         self.code = {
             'machine_learning': ['Keras', 'TensorFlow', 'Pytorch', 'Anaconda', 'Python'],
             'computer_vision':  ['OpenCV', 'Python', 'Matlab','Pygame'],
-            'ros':              ['C++', 'Python', 'ROS 1', 'ROS 2', 'Gazebo', 'RViz','SolidWorks','Catkin'],
+            'ros':              ['C++', 'Python', 'ROS 1', 'ROS 2', 'Gazebo',
+                                    'RViz','SolidWorks','Catkin'],
             'programing_misc':  ['LabView','Simulink','Google Colab', 
                                     'Firebase', 'Ansys', 'Doxygen']
         }
