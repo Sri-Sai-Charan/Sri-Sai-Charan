@@ -17,13 +17,15 @@ class SriSaiCharan:
         self.code = {
             'machine_learning': ['Keras', 'TensorFlow', 'Pytorch', 'Anaconda', 'Python'],
             'computer_vision':  ['OpenCV', 'Python', 'Matlab','Pygame'],
-            'ros':              ['C++', 'Python', 'ROS 1', 'Gazebo', 'RViz','SolidWorks','Catkin'],
+            'ros':              ['C++', 'Python', 'ROS 1', 'ROS 2', 'Gazebo', 'RViz','SolidWorks','Catkin'],
             'programing_misc':  ['LabView','Simulink','Google Colab', 
                                     'Firebase', 'Ansys', 'Doxygen']
         }
         self.education = {
-            'undergraduate':    ['SRM IST', 'Mechatronics'],
-            'graduate':         ['UMD College Park', 'Robotics']
+            'undergraduate':    ['University' : 'SRM IST',
+                                 'Degree'     : 'Mechatronics'],
+            'graduate':         ['University' : 'UMD College Park',
+                                 'Degree'     : 'Robotics']
         }
         
 
