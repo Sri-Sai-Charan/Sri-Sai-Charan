@@ -15,8 +15,9 @@ class SriSaiCharan:
         self.username = 'Sri-Sai-Charan'
         self.name = 'SriSaiCharan Velisetti'
         self.code = {
-            'machine_learning': ['Keras', 'TensorFlow', 'Pytorch', 'Anaconda', 'Python'],
+            'machine_learning': ['Keras', 'TensorFlow', 'Pytorch', 'Anaconda', 'Python','Mujoco','Isaac Sim'],
             'computer_vision':  ['OpenCV', 'Python', 'Matlab','Pygame'],
+            'path_planning':  ['AStar', 'Dijkstra', 'RRT*','BFS'],
             'ros':              ['C++', 'Python', 'ROS 1', 'ROS 2', 'Gazebo',
                                     'RViz','SolidWorks','Catkin'],
             'programing_misc':  ['LabView','Simulink','Google Colab', 
